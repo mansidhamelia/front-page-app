@@ -5,10 +5,8 @@ import { Dialog, Menu, Transition } from '@headlessui/react'
 import { Disclosure } from '@headlessui/react'
 import { ChevronRightIcon, Bars3Icon, EllipsisHorizontalIcon, MagnifyingGlassIcon } from '@heroicons/react/20/solid'
 import {
-    CalendarIcon,
     ChartPieIcon,
     DocumentDuplicateIcon,
-    FolderIcon,
     HomeIcon,
     UsersIcon,
     XMarkIcon,
